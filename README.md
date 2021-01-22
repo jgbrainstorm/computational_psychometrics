@@ -13,13 +13,13 @@ Chapter 2. Next generation learning and assessment: what, why and how
 > Robert Mislevy
 
 Chapter 3. Computational psychometrics 
-> Alina A. von Davier, Kristen DiCerbo, Josine Verhagen
+> Alina A. von Davier, Kristen DiCerbo and Josine Verhagen
 
 Chapter 4. Virtual performance-based assessments
-> Jessica Andrews Todd, Robert Mislevy, Michelle LaMar, and Sebastiaan de Klerk
+> Jessica Andrews Todd, Robert Mislevy, Michelle LaMar and Sebastiaan de Klerk
 
 Chapter 5. Knowledge Inference Models Used in Adaptive Learning
-> Maria Ofelia, Z., San Pedro and Baker, Ryan S. 
+> Maria Ofelia, M.O.Z. San Pedro and Ryan S. Baker
 
 ### Part II Methodology
 
@@ -27,7 +27,7 @@ Chapter 6. Concepts and models from Psychometrics
 > Robert Mislevy and Maria Bolsinova
 
 Chapter 7. Bayesian Inference in Large-Scale Computational Psychometrics
-> Gunter Maris, Timo Bechger, Maarten Marsman 
+> Gunter Maris, Timo Bechger and Maarten Marsman 
 
 Chapter 8. Data science perspectives
 > Jiangang Hao and Robert Mislevy
