@@ -4,21 +4,21 @@
 
 ## Table of Contents
 
-- Chapter 1. Introduction. Computational Psychometrics: Towards a Principled Integration of Data Science and Machine Learning Techniques into Psychometrics
+Chapter 1. Introduction. Computational Psychometrics: Towards a Principled Integration of Data Science and Machine Learning Techniques into Psychometrics
 > Alina A. von Davier, Robert Mislevy, Jiangang Hao
 
 ### Part I Conceptualization
 
-- Chapter 2. Next generation learning and assessment: what, why and how
+Chapter 2. Next generation learning and assessment: what, why and how
 > Robert Mislevy
 
-- Chapter 3. Computational psychometrics 
+Chapter 3. Computational psychometrics 
 > Alina A. von Davier, Kristen DiCerbo, Josine Verhagen
 
-- Chapter 4. Virtual performance-based assessments
+Chapter 4. Virtual performance-based assessments
 > Jessica Andrews Todd, Robert Mislevy, Michelle LaMar, and Sebastiaan de Klerk
 
-- Chapter 5. Knowledge Inference Models Used in Adaptive Learning
+Chapter 5. Knowledge Inference Models Used in Adaptive Learning
 > Maria Ofelia, Z., San Pedro and Baker, Ryan S. 
 
 ### Part II Methodology
