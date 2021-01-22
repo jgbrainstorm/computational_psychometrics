@@ -23,31 +23,31 @@ Chapter 5. Knowledge Inference Models Used in Adaptive Learning
 
 ### Part II Methodology
 
-- Chapter 6. Concepts and models from Psychometrics
+Chapter 6. Concepts and models from Psychometrics
 > Robert Mislevy and Maria Bolsinova
 
-- Chapter 7. Bayesian Inference in Large-Scale Computational Psychometrics
+Chapter 7. Bayesian Inference in Large-Scale Computational Psychometrics
 > Gunter Maris, Timo Bechger, Maarten Marsman 
 
-- Chapter 8. Data science perspectives
+Chapter 8. Data science perspectives
 > Jiangang Hao and Robert Mislevy
 
-- Chapter 9. Supervised machine learning 
+Chapter 9. Supervised machine learning 
 > Jiangang Hao
 
-- Chapter 10. Unsupervised machine learning
+Chapter 10. Unsupervised machine learning
 > Pak Chunk Wong
 
-- Chapter 11. AI and deep learning for educational research
+Chapter 11. AI and deep learning for educational research
 > Yuchi Huang and Saad M. Khan
 
-- Chapter 12. Time series and stochastic processes 
+Chapter 12. Time series and stochastic processes 
 > Peter Halpin, Lu Ou and Michelle LaMar
 
-- Chapter 13. Social network analysis
+Chapter 13. Social network analysis
 > Mengxiao Zhu
 
-- Chapter 14. Text mining and automated scoring 
+Chapter 14. Text mining and automated scoring 
 > Michael Flor and Jiangang Hao
 
 
