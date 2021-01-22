@@ -1,0 +1,16 @@
+[5/15/2013 2:17:26 PM] Session Start
+[5/15/2013 2:17:26 PM] Leaving sequence: loadXML, moving forward.
+[5/15/2013 2:17:30 PM] Player submitted name: Carl
+[5/15/2013 2:17:30 PM] Leaving sequence: InputNameScreen, moving forward.
+[5/15/2013 2:17:31 PM] Player submitted name: Carl
+[5/15/2013 2:17:31 PM] Leaving sequence: startScreen, moving forward.
+[5/15/2013 2:17:50 PM] Player submitted name: Carl
+[5/15/2013 2:17:50 PM] Leaving sequence: slide2, moving forward.
+[5/15/2013 2:17:55 PM] Player submitted name: Carl
+[5/15/2013 2:17:55 PM] Leaving sequence: slide2b, moving forward.
+[5/15/2013 2:18:34 PM] Player submitted name: Carl
+[5/15/2013 2:18:34 PM] Leaving sequence: slide2c, moving forward.
+[5/15/2013 2:20:09 PM] Player submitted name: Carl
+[5/15/2013 2:20:09 PM] Leaving sequence: slide3, moving forward.
+[5/15/2013 2:20:13 PM] Player submitted name: Carl
+[5/15/2013 2:20:13 PM] Leaving sequence: slide4, moving forward.
