@@ -1,6 +1,6 @@
 # Computational Psychometrics
 
-*This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy, and Jiangang Hao*
+*This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy and Jiangang Hao. Please note that only chapters 7 to chapter 14 have the corresponding code examples included here and the other chapters do not have code examples.*
 
 ## Table of Contents
 
