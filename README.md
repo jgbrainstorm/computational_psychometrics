@@ -9,7 +9,7 @@
 ## Table of Contents
 
 Chapter 1. Introduction. Computational Psychometrics: Towards a Principled Integration of Data Science and Machine Learning Techniques into Psychometrics
-> Alina A. von Davier, Robert Mislevy, Jiangang Hao
+> Alina A. von Davier, Robert Mislevy and Jiangang Hao
 
 ### Part I Conceptualization
 
