@@ -2,7 +2,7 @@
 
 *This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 have the corresponding code examples included here and the other chapters do not have code examples.*
 
-## Python and R utorials
+## Python and R Tutorials
 * Python tutorials: https://docs.python.org/3/tutorial/
 * R tutorials: https://cran.r-project.org/doc/manuals/r-release/R-intro.html
 
