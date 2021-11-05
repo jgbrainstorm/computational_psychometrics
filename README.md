@@ -10,7 +10,7 @@ This is the code repo for the forthcoming book, Computational Psychometrics, edi
 ## Table of Contents
 
 Chapter 1. Introduction to Computational Psychometrics: towards a principled integration of data science and machine learning techniques into psychometrics
-> Authors: Alina A. von Davier, Robert J. Mislevy and Jiangang Hao
+> **Authors**: Alina A. von Davier, Robert J. Mislevy and Jiangang Hao
 
 > **Abstract:** In this chapter we articulate what is computational psychometrics, why
 we need a volume focused on it, and how this book contributes to the expansion of
@@ -23,10 +23,40 @@ our recommendations for further readings.
 ### Part I Conceptualization
 
 Chapter 2. Next generation learning and assessment: what, why and how
-> Robert Mislevy
+> **Author**: Robert Mislevy
+
+> **Abstract:** Computational psychometrics is a blend of stochastic processes theory,
+computer science-based methods, and theory-based psychometric approaches that
+may aid the analyses of complex data from performance assessments. This chapter
+discusses the grounds for using complex performance assessments, the design of
+such assessments so that useful evidence about targeted abilities will be present
+in the data to be analysed, and roles that computational psychometric ideas and
+methods can play. It first provides background on a situative, sociocognitive,
+perspective on human capabilities and how we develop them and use them—a
+perspective we believe is necessary to synthesize the methodologies. Next it reviews
+the form of evidentiary argument that underlies the evidence-centered approach
+to design, interpretation, and use of educational assessments. It then points out
+junctures in extensions of the argument form where computational psychometric
+methods can carry out vital roles in assessment of more advanced constructs, from
+more complex data, in new forms and contexts of assessment. It concludes by
+reflecting on how one reconceives and extends the notions of validity, reliability,
+comparability, fairness, and generalizability to more complex assessments and
+analytic methods.
 
 Chapter 3. Computational psychometrics 
-> Alina A. von Davier, Kristen DiCerbo and Josine Verhagen
+> **Authors** Alina A. von Davier, Kristen DiCerbo and Josine Verhagen
+
+> **Abstract:** In recent years the advances in technology provided affordances for
+learning and assessments opportunities. In this chapter we first describe computational
+psychometrics as a framework for the measurement of learners’ skills,
+knowledge, and abilities. We discuss the changes in educational measurement
+that led to the need for expanding the psychometrics toolbox and describe the
+properties of psychometric data. We then give an example of a class of models,
+the Dynamic Bayesian Models that encompass many traditional psychometric
+models and machine-learning algorithms. We conclude by emphasizing that model
+complexity and power need to be balanced with the responsibility for transparency
+and fairness towards stakeholders.
+
 
 Chapter 4. Virtual performance-based assessments
 > Jessica Andrews Todd, Robert Mislevy, Michelle LaMar and Sebastiaan de Klerk
