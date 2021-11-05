@@ -1,5 +1,6 @@
 # Computational Psychometrics
-*This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 contain code examples and the other chapters do not have any code examples. Click [here to visit the Springer page for the book](https://link.springer.com/book/9783030743932)*
+*This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 contain code examples and the other chapters do not have any code examples. Click [here to visit the Springer page for the book](https://link.springer.com/book/9783030743932).*
+
 <img src="book_cover.png" alt="Computational Psychometrics" width="800"/>
 
 ## Python and R Tutorials
