@@ -11,6 +11,13 @@ This is the code repo for the forthcoming book, Computational Psychometrics, edi
 
 Chapter 1. Introduction to Computational Psychometrics: towards a principled integration of data science and machine learning techniques into psychometrics
 > Alina A. von Davier, Robert J. Mislevy and Jiangang Hao
+> **Abstract:** In this chapter we articulate what is computational psychometrics, why
+we need a volume focused on it, and how this book contributes to the expansion of
+psychometric toolbox to include methodologies from machine learning and data
+science in order to address the complexities of big data collected from virtual
+learning and assessment systems. We also discuss here the structure of the edited
+volume, how each chapter contributes to enhancing the psychometrics science and
+our recommendations for further readings.
 
 ### Part I Conceptualization
 
