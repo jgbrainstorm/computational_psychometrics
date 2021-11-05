@@ -1,5 +1,5 @@
 # Computational Psychometrics
-This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 contain code examples and the other chapters do not have any code examples. Click [here to visit the Springer page for the book](https://link.springer.com/book/9783030743932).
+This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert J. Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 contain code examples and the other chapters do not have any code examples. Click [here to visit the Springer page for the book](https://link.springer.com/book/9783030743932).
 
 <img src="book_cover.png" alt="Computational Psychometrics" width="1000"/>
 
@@ -23,7 +23,7 @@ our recommendations for further readings.*
 ### Part I Conceptualization
 
 Chapter 2. Next generation learning and assessment: what, why and how
-> **Author:** Robert Mislevy
+> **Author:** Robert J. Mislevy
 
 > **Abstract:** *Computational psychometrics is a blend of stochastic processes theory,
 computer science-based methods, and theory-based psychometric approaches that
@@ -59,7 +59,7 @@ and fairness towards stakeholders.*
 
 
 Chapter 4. Virtual performance-based assessments
-> **Authors:** Jessica Andrews Todd, Robert Mislevy, Michelle LaMar and Sebastiaan de Klerk
+> **Authors:** Jessica Andrews Todd, Robert J. Mislevy, Michelle LaMar and Sebastiaan de Klerk
 
 > **Abstract:** *Virtual performance-based assessments (VPBAs) are environments for
 test takers to interact with systems, sometimes including other persons or agents,
@@ -96,7 +96,7 @@ potential for future progress.*
 ### Part II Methodology
 
 Chapter 6. Concepts and models from Psychometrics
-> **Authors:** Robert Mislevy and Maria Bolsinova
+> **Authors:** Robert J. Mislevy and Maria Bolsinova
 
 > **Abstract:** *The concepts and methods of psychometrics originated under trait and
 behavioral psychology, with relatively simple data, used mainly for purposes of
@@ -124,7 +124,7 @@ to illustrate how MCMC can be done for a wide range of models in computational
 statistics.*
 
 Chapter 8. Data science perspectives
-> **Authors:** Jiangang Hao and Robert Mislevy
+> **Authors:** Jiangang Hao and Robert J. Mislevy
 
 > **Abstract:** *Digitally based learning and assessment systems generate large volumes
 of complex process data. The next generation psychometricians need to acquire new
