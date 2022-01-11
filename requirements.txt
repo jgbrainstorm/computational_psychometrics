@@ -2,7 +2,7 @@ pandas==1.2.2
 plotly==4.14.3
 ipywidgets==7.6.3
 sklearn==1.0.2
-nltk==3.5
+nltk
 pyspellchecker==0.6.2
 numpy
 scipy
