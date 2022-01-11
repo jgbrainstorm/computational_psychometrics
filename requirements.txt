@@ -11,5 +11,5 @@ tensorflow
 torch
 torchvision
 Pillow
-
+beautifulsoup4
 
