@@ -1,5 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgbrainstorm/computational_psychometrics/HEAD)
-Copy markdown link to clipboard
 # Computational Psychometrics
 This is the code repo for the forthcoming book, Computational Psychometrics, edited by Alina A. von Davier, Robert J. Mislevy and Jiangang Hao. Please note that only chapter 7 to chapter 14 contain code examples and the other chapters do not have any code examples. Click [here to visit the Springer page for the book](https://link.springer.com/book/9783030743932).
 
