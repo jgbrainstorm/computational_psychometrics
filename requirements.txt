@@ -4,13 +4,13 @@ ipywidgets==7.6.3
 sklearn==1.0.2
 nltk==3.5
 pyspellchecker==0.6.2
-numpy==1.19.2
-scipy==1.7.1
-matplotlib==3.3.2
+numpy
+scipy
+matplotlib
 tensorflow==2.6.1
 torch==1.10.1
 torchvision==0.11.2
-Pillow==8.1.1
+Pillow
 beautifulsoup4==4.9.3
 gensim==4.1.2
 
