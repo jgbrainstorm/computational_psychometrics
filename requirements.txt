@@ -3,7 +3,7 @@ plotly
 ipywidgets
 sklearn
 nltk
-spellchecker
+pyspellchecker
 numpy
 scipy
 matplotlib
@@ -12,4 +12,5 @@ torch
 torchvision
 Pillow
 beautifulsoup4
+gensim
 
