@@ -1,0 +1,15 @@
+pandas
+plotly
+ipywidgets
+sklearn
+nltk
+spellchecker
+numpy
+scipy
+matplotlib
+tensorflow
+torch
+torchvision
+PIL
+
+
