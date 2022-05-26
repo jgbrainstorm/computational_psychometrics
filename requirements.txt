@@ -7,10 +7,10 @@ pyspellchecker==0.6.2
 numpy
 scipy
 matplotlib
-tensorflow==2.6.1
-torch==1.10.1
-torchvision==0.11.2
-Pillow
+#tensorflow==2.6.1
+#torch==1.10.1
+#torchvision==0.11.2
+#Pillow
 beautifulsoup4==4.9.3
 gensim==4.1.2
 
